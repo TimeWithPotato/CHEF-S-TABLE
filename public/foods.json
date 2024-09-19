@@ -1,0 +1,99 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with savory meat sauce.",
+      "ingredients": [
+        "500g ground beef",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "400g canned tomatoes",
+        "200g spaghetti",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "45 min",
+      "calories": "600 calories",
+      "recipe_image": "https://i.ibb.co.com/FhsYDHL/paish-zaini-9-UJTn-Xp-UXM-unsplash.jpg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Curry",
+      "short_description": "A flavorful and spicy chicken dish cooked in a rich curry sauce.",
+      "ingredients": [
+        "500g chicken breast, diced",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 tbsp curry powder",
+        "400ml coconut milk",
+        "1 tbsp vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "40 min",
+      "calories": "450 calories",
+      "recipe_image": "https://i.ibb.co.com/qg4172S/yoav-aziz-i7-Ic-Vi-KHK90-unsplash.jpg"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A healthy and quick stir-fried dish with mixed vegetables and a savory sauce.",
+      "ingredients": [
+        "1 bell pepper, sliced",
+        "1 zucchini, sliced",
+        "1 carrot, julienned",
+        "100g broccoli florets",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "2 cloves garlic, minced",
+        "1 tsp ginger, grated"
+      ],
+      "preparing_time": "20 min",
+      "calories": "250 calories",
+      "recipe_image": "https://i.ibb.co.com/9NZ4DQY/louis-hansel-KQR3-ENYfrpw-unsplash.jpg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Mexican-inspired dish with seasoned beef, fresh veggies, and soft tortillas.",
+      "ingredients": [
+        "300g ground beef",
+        "6 small tortillas",
+        "1 tomato, diced",
+        "1/2 onion, chopped",
+        "50g shredded lettuce",
+        "50g grated cheese"
+      ],
+      "preparing_time": "30 min",
+      "calories": "450 calories",
+      "recipe_image": "https://i.ibb.co.com/hDwR06r/jeswin-thomas-z-Pfa-Gze-N9-E-unsplash.jpg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Margarita Pizza",
+      "short_description": "Classic Italian pizza topped with fresh mozzarella, tomatoes, and basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "200g mozzarella cheese",
+        "3 ripe tomatoes, sliced",
+        "Fresh basil leaves",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "25 min",
+      "calories": "500 calories",
+      "recipe_image": "https://i.ibb.co.com/YNF8PNS/amin-ramezani-ot-ZSAyb65-o-unsplash.jpg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Delicious and healthy grilled salmon with a touch of lemon and herbs.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 tbsp olive oil",
+        "1 lemon, sliced",
+        "Fresh dill"
+      ],
+      "preparing_time": "20 min",
+      "calories": "350 calories",
+      "recipe_image": "https://i.ibb.co.com/HPkc8tq/davey-gravy-4-WPcz-5-RVMk-unsplash.jpg"
+    }
+  ]
+  
